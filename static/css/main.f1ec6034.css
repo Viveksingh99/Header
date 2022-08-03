@@ -1,0 +1,2 @@
+*{margin:0;padding:0}#main ul{list-style:none}#main ul li{background-color:green;border:1px solid #fff;color:#fff;float:left;font-size:20px;height:40px;line-height:40px;text-align:center;width:200px}#main ul li:hover{background-color:#bc8f8f}#main ul ul{display:none}#main ul li:hover>ul{display:block}
+/*# sourceMappingURL=main.f1ec6034.css.map*/
